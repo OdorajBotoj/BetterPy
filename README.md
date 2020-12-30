@@ -1,2 +1,2 @@
 # BetterPy
-Use Packegs to Make Python Better Together!
+Use Something to Make Python Better Together!
